@@ -1,0 +1,225 @@
+<!-- TSD-4RT| AB |22.09.2026.-->
+<!DOCTYPE html>
+<html lang="hr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Kako prepoznati phishing napad? | SecureCore</title>
+
+<link rel="stylesheet" href="../style.css">
+
+</head>
+
+<body>
+
+
+<header class="header">
+
+<div class="container nav">
+
+<a href="../index.html" class="logo">
+
+<span class="logo-icon">S</span>
+
+<span>
+Secure<span>Core</span>
+</span>
+
+</a>
+
+
+<nav class="navigation">
+
+<a href="../index.html">Početna</a>
+
+<a href="../onama.html">O nama</a>
+
+<a href="../usluge.html">Usluge</a>
+
+<a href="../clanci.html" class="active">Članci</a>
+
+<a href="../kontakt.html">Kontakt</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<section class="article-page">
+
+<div class="article-container">
+
+<div class="article-header">
+
+<span class="article-category">
+CYBER SIGURNOST
+</span>
+
+<h1>
+Kako prepoznati phishing napad?
+</h1>
+
+<p class="article-intro">
+Phishing je jedan od najčešćih načina na koji napadači
+pokušavaju doći do korisničkih podataka.
+</p>
+
+<div class="article-author">
+Autor: Ivan Horvat · 08.09.2026.
+</div>
+
+</div>
+
+
+<div class="article-content-full">
+
+<p>
+Phishing je oblik socijalnog inženjeringa u kojem napadač
+pokušava navesti korisnika da otkrije osjetljive informacije.
+</p>
+
+
+<h2>
+Kako phishing izgleda?
+</h2>
+
+<p>
+Napadač može poslati e-mail, SMS ili drugu poruku koja izgleda
+kao da dolazi od banke, poznate tvrtke ili druge organizacije.
+</p>
+
+
+<h2>
+Na što treba paziti?
+</h2>
+
+<ul>
+
+<li>
+Provjerite adresu pošiljatelja.
+</li>
+
+<li>
+Nemojte automatski otvarati sumnjive poveznice.
+</li>
+
+<li>
+Obratite pažnju na gramatičke pogreške.
+</li>
+
+<li>
+Budite oprezni kada poruka zahtijeva hitnu reakciju.
+</li>
+
+<li>
+Ne unosite lozinku na nepoznate stranice.
+</li>
+
+</ul>
+
+
+<h2>
+Što učiniti?
+</h2>
+
+<p>
+Ako poruka izgleda sumnjivo, nemojte otvarati poveznice
+niti unositi osobne podatke. Ako trebate pristupiti nekoj
+usluzi, otvorite službenu web stranicu ručnim unosom adrese.
+</p>
+
+
+<h2>
+Zaključak
+</h2>
+
+<p>
+Oprez i edukacija zaposlenika jedan su od najvažnijih dijelova
+zaštite od phishing napada.
+</p>
+
+
+<a href="../clanci.html" class="back-articles">
+← Povratak na članke
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+</main>
+
+
+<footer class="footer">
+
+<div class="container footer-grid">
+
+<div class="footer-brand">
+
+<a href="../index.html" class="logo">
+
+<span class="logo-icon">S</span>
+
+<span>
+Secure<span>Core</span>
+</span>
+
+</a>
+
+<p>
+Profesionalna rješenja za informacijsku sigurnost.
+</p>
+
+</div>
+
+
+<div class="footer-column">
+
+<h4>Navigacija</h4>
+
+<a href="../index.html">Početna</a>
+
+<a href="../onama.html">O nama</a>
+
+<a href="../usluge.html">Usluge</a>
+
+<a href="../clanci.html">Članci</a>
+
+<a href="../kontakt.html">Kontakt</a>
+
+</div>
+
+</div>
+
+
+<div class="footer-bottom">
+
+<div class="container">
+
+<p>
+© 2026 SecureCore.
+</p>
+
+<a href="../privatnost.html">
+Politika privatnosti
+</a>
+
+</div>
+
+</div>
+
+</footer>
+
+</body>
+
+</html>
